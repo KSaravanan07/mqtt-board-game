@@ -1,6 +1,7 @@
 # MQTT Board Game
 
 This repository contains the Python code for running an MQTT board game with HiveMQ as the MQTT broker.
+The same code can be updated to use AWS IOT-Core as MQTT Broker with minimal changes. That requires you to add your AWS account connection informtation to the AWS Broker.
 
 ## How to Run
 
